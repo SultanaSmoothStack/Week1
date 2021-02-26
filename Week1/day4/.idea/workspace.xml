@@ -26,14 +26,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoSingleton.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DemoSingleton.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProducerConsumer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment3/ProducerConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding>
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,13 +78,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/sultana/com/sultana/assignment1/Singleton.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/assignment1/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/Assignment2/DeadlockThread.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/assignment3/MyBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/assignment3/ProducerConsumer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
+    <option name="x" value="-18" />
+    <option name="y" value="5" />
     <option name="width" value="1950" />
     <option name="height" value="2075" />
   </component>
@@ -108,14 +119,7 @@
               <item name="day4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sultana" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sultana" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadlockThread">
+  <component name="RunManager" selected="Application.ProducerConsumer">
     <configuration name="DeadlockThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sultana.Assignment2.DeadlockThread" />
       <module name="day4" />
@@ -156,12 +160,24 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sultana.assignment3.ProducerConsumer" />
+      <module name="day4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sultana.assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DeadlockThread" />
+      <item itemvalue="Application.ProducerConsumer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerConsumer" />
         <item itemvalue="Application.DeadlockThread" />
       </list>
     </recent_temporary>
@@ -180,8 +196,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="780" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="2" width="780" height="830" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -191,12 +206,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32986626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32986626" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24930748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20221607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -254,11 +269,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment3/MyBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment3/ProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
