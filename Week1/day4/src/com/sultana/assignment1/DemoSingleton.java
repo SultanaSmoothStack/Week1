@@ -1,17 +1,23 @@
 package com.sultana.assignment1;
 
-import javax.annotation.Resource;
+public class DemoSingleton {
 
-/*public class DemoSingleton {
-private Resource rs = null;
+    private static volatile DemoSingleton instance;
+    int value;
+    private DemoSingleton(){
 
-public Resource getExpensiveResource(){
-    synchronized (this){
-        if(rs == null){
-            rs = new Resource();
-        }
     }
-    return rs;
-}
 
-}*/
+    public static DemoSingleton getInstance(){
+        if(instance == null){
+            synchronized (DemoSingleton.class){
+                if(instance == null){
+                    instance = new DemoSingleton();
+                }
+            }
+
+        }
+        return instance;
+    }
+
+}

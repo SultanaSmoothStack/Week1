@@ -26,16 +26,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoSingleton.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DemoSingleton.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProducerConsumer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment1/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProducerConsumer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment3/ProducerConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
@@ -79,9 +88,10 @@
         <option value="$PROJECT_DIR$/src/com/sultana/com/sultana/assignment1/Singleton.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/assignment1/Singleton.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/Assignment2/DeadlockThread.java" />
-        <option value="$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/assignment3/MyBlockingQueue.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/assignment3/ProducerConsumer.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/assignment1/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java" />
       </list>
     </option>
   </component>
@@ -118,6 +128,13 @@
               <item name="day4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sultana" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sultana" type="462c0819:PsiDirectoryNode" />
               <item name="assignment3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -141,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProducerConsumer">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DeadlockThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sultana.Assignment2.DeadlockThread" />
       <module name="day4" />
@@ -169,13 +186,25 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sultana.assignment1.Test" />
+      <module name="day4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sultana.assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DeadlockThread" />
       <item itemvalue="Application.ProducerConsumer" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ProducerConsumer" />
         <item itemvalue="Application.DeadlockThread" />
       </list>
@@ -266,13 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment3/MyBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -294,6 +316,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/assignment1/DemoSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
