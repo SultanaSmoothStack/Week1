@@ -29,8 +29,8 @@
       <file leaf-file-name="BasicLambda.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sultana/BasicLambda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,11 +38,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicLambdaTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListToString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sultana/ListToString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#150#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListToStringTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sultana/ListToStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#191#200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicLambdaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,6 +92,8 @@
         <option value="$PROJECT_DIR$/src/com/sultana/BasicLambda.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sultana/BasicLambda.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sultana/ListToString.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sultana/ListToStringTest.java" />
       </list>
     </option>
   </component>
@@ -127,9 +158,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BasicLambdaTest">
+  <component name="RunManager" selected="Application.ListToString">
     <configuration name="BasicLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.sultana.BasicLambda" />
+      <module name="day5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.sultana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ListToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.sultana.ListToString" />
       <module name="day5" />
       <extension name="coverage">
         <pattern>
@@ -207,43 +248,20 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BasicLambdaTest.testSortByDescendingForNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.com.sultana.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.java.com.sultana" />
-      <option name="MAIN_CLASS_NAME" value="test.java.com.sultana.BasicLambdaTest" />
-      <option name="METHOD_NAME" value="testSortByDescendingForNull" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <list>
-      <item itemvalue="JUnit.BasicLambdaTest.testSortByDescendingForNull" />
       <item itemvalue="JUnit.BasicLambdaTest" />
       <item itemvalue="Application.BasicLambda" />
       <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForEmpty" />
       <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForNull" />
+      <item itemvalue="Application.ListToString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListToString" />
         <item itemvalue="JUnit.BasicLambdaTest" />
         <item itemvalue="Application.BasicLambda" />
         <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForNull" />
         <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForEmpty" />
-        <item itemvalue="JUnit.BasicLambdaTest.testSortByDescendingForNull" />
       </list>
     </recent_temporary>
   </component>
@@ -261,15 +279,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicLambdaTest - 2021.02.27 at 15h 39m 26s.xml">
-      <configuration name="BasicLambdaTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAlphabeticallyByFirstForEmpty - 2021.02.27 at 15h 50m 28s.xml">
-      <configuration name="BasicLambdaTest.testSortByAlphabeticallyByFirstForEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAlphabeticallyByFirstForNull - 2021.02.27 at 15h 50m 33s.xml">
-      <configuration name="BasicLambdaTest.testSortByAlphabeticallyByFirstForNull" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BasicLambdaTest - 2021.02.27 at 15h 50m 42s.xml">
       <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
@@ -291,6 +300,15 @@
     <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 15m 35s.xml">
       <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 17m 32s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 18m 25s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 18m 34s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -304,13 +322,13 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.18376929" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15895373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15895373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -343,20 +361,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sultana/BasicLambda.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sultana/BasicLambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="136">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sultana/ListToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#150#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sultana/ListToStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#200#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
