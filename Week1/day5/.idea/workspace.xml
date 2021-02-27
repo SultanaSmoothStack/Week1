@@ -29,8 +29,11 @@
       <file leaf-file-name="BasicLambda.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sultana/BasicLambda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="374">
+              <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,11 +41,8 @@
       <file leaf-file-name="BasicLambdaTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -61,8 +61,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/sultana/BasicLamda.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/BasicLambda.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sultana/BasicLambda.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java" />
       </list>
     </option>
   </component>
@@ -127,13 +127,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BasicLambdaTest.testSortByAscendingForNull">
+  <component name="RunManager" selected="JUnit.BasicLambdaTest">
     <configuration name="BasicLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sultana.BasicLambda" />
+      <option name="MAIN_CLASS_NAME" value="main.java.com.sultana.BasicLambda" />
       <module name="day5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sultana.*" />
+          <option name="PATTERN" value="main.java.com.sultana.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,7 +161,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BasicLambdaTest.testSortByAscendingForEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicLambdaTest.testSortByAlphabeticallyByFirstForEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day5" />
       <extension name="coverage">
         <pattern>
@@ -173,7 +173,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="test.java.com.sultana" />
       <option name="MAIN_CLASS_NAME" value="test.java.com.sultana.BasicLambdaTest" />
-      <option name="METHOD_NAME" value="testSortByAscendingForEmpty" />
+      <option name="METHOD_NAME" value="testSortByAlphabeticallyByFirstForEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -184,7 +184,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BasicLambdaTest.testSortByAscendingForNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicLambdaTest.testSortByAlphabeticallyByFirstForNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day5" />
       <extension name="coverage">
         <pattern>
@@ -196,7 +196,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="test.java.com.sultana" />
       <option name="MAIN_CLASS_NAME" value="test.java.com.sultana.BasicLambdaTest" />
-      <option name="METHOD_NAME" value="testSortByAscendingForNull" />
+      <option name="METHOD_NAME" value="testSortByAlphabeticallyByFirstForNull" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -207,7 +207,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BasicLambdaTest.testSortByDescending" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicLambdaTest.testSortByDescendingForNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day5" />
       <extension name="coverage">
         <pattern>
@@ -219,7 +219,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="test.java.com.sultana" />
       <option name="MAIN_CLASS_NAME" value="test.java.com.sultana.BasicLambdaTest" />
-      <option name="METHOD_NAME" value="testSortByDescending" />
+      <option name="METHOD_NAME" value="testSortByDescendingForNull" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -231,19 +231,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="Application.BasicLambda" />
-      <item itemvalue="JUnit.BasicLambdaTest.testSortByDescending" />
+      <item itemvalue="JUnit.BasicLambdaTest.testSortByDescendingForNull" />
       <item itemvalue="JUnit.BasicLambdaTest" />
-      <item itemvalue="JUnit.BasicLambdaTest.testSortByAscendingForNull" />
-      <item itemvalue="JUnit.BasicLambdaTest.testSortByAscendingForEmpty" />
+      <item itemvalue="Application.BasicLambda" />
+      <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForEmpty" />
+      <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForNull" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BasicLambdaTest.testSortByAscendingForNull" />
-        <item itemvalue="JUnit.BasicLambdaTest.testSortByAscendingForEmpty" />
-        <item itemvalue="JUnit.BasicLambdaTest.testSortByDescending" />
         <item itemvalue="JUnit.BasicLambdaTest" />
         <item itemvalue="Application.BasicLambda" />
+        <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForNull" />
+        <item itemvalue="JUnit.BasicLambdaTest.testSortByAlphabeticallyByFirstForEmpty" />
+        <item itemvalue="JUnit.BasicLambdaTest.testSortByDescendingForNull" />
       </list>
     </recent_temporary>
   </component>
@@ -261,32 +261,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicLambdaTest_testSortByDescending - 2021.02.27 at 13h 37m 29s.xml">
-      <configuration name="BasicLambdaTest.testSortByDescending" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicLambdaTest - 2021.02.27 at 13h 38m 45s.xml">
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 15h 39m 26s.xml">
       <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByDescending - 2021.02.27 at 13h 38m 58s.xml">
-      <configuration name="BasicLambdaTest.testSortByDescending" configurationId="JUnit" />
+    <history-entry file="BasicLambdaTest_testSortByAlphabeticallyByFirstForEmpty - 2021.02.27 at 15h 50m 28s.xml">
+      <configuration name="BasicLambdaTest.testSortByAlphabeticallyByFirstForEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAscendingForNull - 2021.02.27 at 13h 40m 05s.xml">
-      <configuration name="BasicLambdaTest.testSortByAscendingForNull" configurationId="JUnit" />
+    <history-entry file="BasicLambdaTest_testSortByAlphabeticallyByFirstForNull - 2021.02.27 at 15h 50m 33s.xml">
+      <configuration name="BasicLambdaTest.testSortByAlphabeticallyByFirstForNull" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAscendingForEmpty - 2021.02.27 at 13h 40m 41s.xml">
-      <configuration name="BasicLambdaTest.testSortByAscendingForEmpty" configurationId="JUnit" />
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 15h 50m 42s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAscendingForEmpty - 2021.02.27 at 13h 40m 53s.xml">
-      <configuration name="BasicLambdaTest.testSortByAscendingForEmpty" configurationId="JUnit" />
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 15h 51m 48s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAscendingForEmpty - 2021.02.27 at 13h 41m 29s.xml">
-      <configuration name="BasicLambdaTest.testSortByAscendingForEmpty" configurationId="JUnit" />
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 02m 17s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAscendingForNull - 2021.02.27 at 13h 42m 32s.xml">
-      <configuration name="BasicLambdaTest.testSortByAscendingForNull" configurationId="JUnit" />
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 02m 49s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLambdaTest_testSortByAscendingForNull - 2021.02.27 at 13h 42m 57s.xml">
-      <configuration name="BasicLambdaTest.testSortByAscendingForNull" configurationId="JUnit" />
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 03m 40s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 13m 20s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BasicLambdaTest - 2021.02.27 at 16h 15m 35s.xml">
+      <configuration name="BasicLambdaTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -342,18 +345,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sultana/BasicLambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="374">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sultana/BasicLambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
         </state>
       </provider>
     </entry>
