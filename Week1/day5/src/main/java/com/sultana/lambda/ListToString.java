@@ -1,4 +1,4 @@
-package main.java.com.sultana;
+package main.java.com.sultana.lambda;
 
 import java.util.ArrayList;
 import java.util.List;

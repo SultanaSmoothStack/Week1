@@ -1,6 +1,6 @@
-package test.java.com.sultana;
+package test.java.com.sultana.lambda;
 
-import main.java.com.sultana.ListToString;
+import main.java.com.sultana.lambda.ListToString;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

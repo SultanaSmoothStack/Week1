@@ -1,6 +1,6 @@
-package test.java.com.sultana;
+package test.java.com.sultana.lambda;
 
-import main.java.com.sultana.BasicLambda;
+import main.java.com.sultana.lambda.BasicLambda;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
