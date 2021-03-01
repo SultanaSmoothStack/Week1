@@ -27,13 +27,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RightMostDigit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RightMostDigit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sultana/RightMostDigit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            <state relative-caret-position="170">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiplyByTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sultana/MultiplyByTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReplaceX.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sultana/ReplaceX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="21" />
+              <folding>
+                <element signature="e#217#225#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,6 +78,8 @@
         <option value="$PROJECT_DIR$/src/lambdas/OddEven.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/Main.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/RightMostDigit.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/MultiplyByTwo.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/ReplaceX.java" />
       </list>
     </option>
   </component>
@@ -110,13 +136,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RightMostDigit">
+  <component name="RunManager" selected="Application.ReplaceX">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.sultana.Main" />
       <module name="Week1-final" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="MultiplyByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sultana.MultiplyByTwo" />
+      <module name="Week1-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sultana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReplaceX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sultana.ReplaceX" />
+      <module name="Week1-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sultana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="RightMostDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sultana.RightMostDigit" />
@@ -142,9 +188,13 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.lambdas" />
       <item itemvalue="Application.RightMostDigit" />
+      <item itemvalue="Application.MultiplyByTwo" />
+      <item itemvalue="Application.ReplaceX" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplaceX" />
+        <item itemvalue="Application.MultiplyByTwo" />
         <item itemvalue="Application.RightMostDigit" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.lambdas" />
@@ -187,7 +237,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45147058" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,7 +269,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="16" />
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -256,10 +306,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sultana/RightMostDigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/MultiplyByTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/ReplaceX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
+          <folding>
+            <element signature="e#217#225#0" expanded="true" />
           </folding>
         </state>
       </provider>
