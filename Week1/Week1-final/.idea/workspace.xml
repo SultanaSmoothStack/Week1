@@ -18,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sultana/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            <state relative-caret-position="85">
+              <caret line="9" column="49" selection-start-line="8" selection-start-column="10" selection-end-line="9" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RightMostDigit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sultana/RightMostDigit.java">
+      <file leaf-file-name="LambdaExpression.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="136">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,13 +39,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiplyByTwo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sultana/MultiplyByTwo.java">
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="136">
+              <caret line="591" selection-start-line="591" selection-end-line="591" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberFormatException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1370#1371#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,46 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/sultana/ReplaceX.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-              <folding>
-                <element signature="e#217#225#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Recursion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sultana/Recursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleSingleton.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sultana/SampleSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="2222" column="45" selection-start-line="2222" selection-start-column="38" selection-end-line="2222" selection-end-column="45" />
-              <folding>
-                <element signature="e#86462#86463#0" expanded="true" />
-                <element signature="e#86545#86546#0" expanded="true" />
-              </folding>
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -119,6 +89,8 @@
         <option value="$PROJECT_DIR$/src/com/sultana/Recursion.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/FixSingletone.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/SampleSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/Odd.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/LambdaExpression.java" />
       </list>
     </option>
   </component>
@@ -163,6 +135,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day3" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sultana" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -175,13 +152,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursion">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sultana.Main" />
+  <component name="RunManager" selected="Application.LambdaExpression">
+    <configuration name="LambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sultana.LambdaExpression" />
       <module name="Week1-final" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sultana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="MultiplyByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sultana.MultiplyByTwo" />
@@ -224,19 +204,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.RightMostDigit" />
       <item itemvalue="Application.MultiplyByTwo" />
       <item itemvalue="Application.ReplaceX" />
       <item itemvalue="Application.Recursion" />
+      <item itemvalue="Application.LambdaExpression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExpression" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.ReplaceX" />
         <item itemvalue="Application.MultiplyByTwo" />
         <item itemvalue="Application.RightMostDigit" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="-6" width="781" height="837" extended-state="0" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -265,18 +245,18 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3293092" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14107884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18175721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45147058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29852942" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,22 +273,46 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/sultana/Main.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java</url>
+          <line>30</line>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/sultana/Main.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java</url>
+          <line>28</line>
           <properties />
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="26" />
+      <option name="time" value="42" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -329,16 +333,6 @@
           <folding>
             <element signature="e#231#232#0" expanded="true" />
             <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sultana/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -374,13 +368,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sultana/ReplaceX.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/SampleSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        <state relative-caret-position="51">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#217#225#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/Odd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -391,14 +394,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sultana/SampleSingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="85">
+          <caret line="9" column="49" selection-start-line="8" selection-start-column="10" selection-end-line="9" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/ReplaceX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#1370#1371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="591" selection-start-line="591" selection-end-line="591" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/LambdaExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
