@@ -51,13 +51,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReplaceX.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReplaceX.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sultana/ReplaceX.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="21" />
+            <state relative-caret-position="238">
+              <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
               <folding>
                 <element signature="e#217#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recursion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sultana/Recursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="2222" column="45" selection-start-line="2222" selection-start-column="38" selection-end-line="2222" selection-end-column="45" />
+              <folding>
+                <element signature="e#86462#86463#0" expanded="true" />
+                <element signature="e#86545#86546#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/com/sultana/RightMostDigit.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/MultiplyByTwo.java" />
         <option value="$PROJECT_DIR$/src/com/sultana/ReplaceX.java" />
+        <option value="$PROJECT_DIR$/src/com/sultana/Recursion.java" />
       </list>
     </option>
   </component>
@@ -122,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReplaceX">
+  <component name="RunManager" selected="Application.Recursion">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.sultana.Main" />
       <module name="Week1-final" />
@@ -146,6 +169,16 @@
     </configuration>
     <configuration name="MultiplyByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sultana.MultiplyByTwo" />
+      <module name="Week1-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sultana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sultana.Recursion" />
       <module name="Week1-final" />
       <extension name="coverage">
         <pattern>
@@ -174,30 +207,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="lambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas" />
-      <module name="Week1-final" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.lambdas" />
       <item itemvalue="Application.RightMostDigit" />
       <item itemvalue="Application.MultiplyByTwo" />
       <item itemvalue="Application.ReplaceX" />
+      <item itemvalue="Application.Recursion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.ReplaceX" />
         <item itemvalue="Application.MultiplyByTwo" />
         <item itemvalue="Application.RightMostDigit" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lambdas" />
       </list>
     </recent_temporary>
   </component>
@@ -226,13 +249,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3293092" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16230717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16230717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -269,7 +292,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="23" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -314,6 +337,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="2222" column="45" selection-start-line="2222" selection-start-column="38" selection-end-line="2222" selection-end-column="45" />
+          <folding>
+            <element signature="e#86462#86463#0" expanded="true" />
+            <element signature="e#86545#86546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sultana/MultiplyByTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -326,11 +360,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sultana/ReplaceX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
+        <state relative-caret-position="238">
+          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
           <folding>
             <element signature="e#217#225#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sultana/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
